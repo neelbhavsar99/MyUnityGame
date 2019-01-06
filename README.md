@@ -1,4 +1,4 @@
-[alt text](https://raw.githubusercontent.com/neelbhavsar99/MyUnityGame/BattleBallCover.png)
+<img width="887" alt="battleballcover" src="https://user-images.githubusercontent.com/38928307/50733398-e8161180-115a-11e9-8d5c-b99567607992.png">
 # MyUnityGame
 Battle Ball is a 2D platformer game. The main part of the game is the 2 player-mode which allows two players to verse each other in a game of “basketball”. The two players will be set upon various maps that have 2 nets where the players can score. These maps also have a variety of obstacles that can cause the players to lose possession of the ball. Players can also steal the ball away from each other. There is a timer and when the timer reaches zero, the round is over and the winner with the highest is determined, otherwise it is a tie.
 
